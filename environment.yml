@@ -1,0 +1,12 @@
+name: mlg_summer_school
+channels:
+  - defaults
+dependencies:
+  - python>=3.6.4
+  - numpy>=1.15.0
+  - pandas
+  - matplotlib
+  - gensim
+  - nltk
+  - ipython
+  - jupyter
