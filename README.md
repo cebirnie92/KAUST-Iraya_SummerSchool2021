@@ -1,3 +1,5 @@
+<img src="logo.jpg">
+
 Welcome to KAUST and Iraya's virtual summer school on Utilising unstructured data in geoscience. Over three days, we will give 
 you an introduction to what is Natural Language Processing, how the geoscience industry is leveraging it, and the new
 avenues that are up for exploration. 
