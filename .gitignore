@@ -1,6 +1,7 @@
 .DS_Store
 
-data/
+# Data
+data/wiki_w2v.bin
 
 ## Python Section - See https://github.com/github/gitignore/blob/master/Python.gitignore
 ##
