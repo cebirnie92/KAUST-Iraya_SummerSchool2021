@@ -10,4 +10,5 @@ dependencies:
   - nltk
   - ipython
   - jupyter
-  - wordcloud
+  - pip:
+    - wordcloud
