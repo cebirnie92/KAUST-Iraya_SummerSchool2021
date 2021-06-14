@@ -34,6 +34,13 @@ Material
 | 2: Active Learning | - | - | - | 
 | 3: Attention and Transformers | - | -  | - | 
 
+
+Limitations on Use of Test Data
+--------------------------------
+
+The sample test data used for this experiment is extracted from ED2K, an initiative between Iraya Energies and European Association of Geoscientists and Engineer (EAGE) to process the EarthDoc database, using the latest in machine learning techniques to read the earth better.
+
+The API access will be available until 17th June 2021 and is available for academic use only. Thank you in advance for deletion of downloaded dataset after the completion of the class. For the utilization of data beyond the duration of this Summer School or use of bigger ED2K dataset, pls send an email request to info@irayaenergies.com.
 About us
 --------
 This virtual school has been organised in collaboration between King Abdullah University of Science and Technology 
