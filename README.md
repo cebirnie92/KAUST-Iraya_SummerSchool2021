@@ -31,7 +31,7 @@ Material
 | Day   | Tutorial (Github) | Tutorial (Colab) | Videos |
 |-----------|------------------|------------------|------------------|
 | 1: Introduction to NLP | [Link](notebooks/day1_word_embeddings.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day1_word_embeddings.ipynb)  | - | 
-| 2: Active Learning | - | - | - | 
+| 2: Active Learning | [Link](notebooks/day2_active_learning.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day2_active_learning.ipynb)  | - | 
 | 3: Attention and Transformers | - | -  | - | 
 
 
