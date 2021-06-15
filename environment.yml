@@ -7,6 +7,9 @@ dependencies:
   - numpy>=1.15.0
   - pandas
   - matplotlib
+  - scikit-learn
+  - seaborn
+  - tensorflow
   - gensim
   - nltk
   - ipython
