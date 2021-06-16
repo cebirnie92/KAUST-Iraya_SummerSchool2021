@@ -9,10 +9,10 @@ dependencies:
   - matplotlib
   - scikit-learn
   - seaborn
-  - tensorflow
   - gensim
   - nltk
   - ipython
   - jupyter
   - pip:
     - wordcloud
+    - tensorflow
