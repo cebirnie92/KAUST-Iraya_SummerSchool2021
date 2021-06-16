@@ -34,8 +34,11 @@ Material
 |-----------|------------------|------------------|------------------|
 | 1: Introduction to NLP | [Link](notebooks/day1_word_embeddings.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day1_word_embeddings.ipynb)  | - | 
 | 2: Active Learning | [Link](notebooks/day2_active_learning.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day2_active_learning.ipynb)  | - | 
-| 3: Attention and Transformers | - | -  | - | 
+| 3a: BERT | [Link](notebooks/day3_Generating_BERT_Embedding.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day3_Generating_BERT_Embedding.ipynb)  | - | 
+| 3b: Title Generation | [Link](notebooks/day3_title_generator.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day3_title_generator.ipynb)  | - | 
 
+
+https://github.com/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day3_Generating_BERT_Embedding.ipynb
 
 Limitations on Use of Test Data
 --------------------------------
