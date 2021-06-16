@@ -38,7 +38,6 @@ Material
 | 3b: Title Generation | [Link](notebooks/day3_Part_2_title_generator.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day3_Part_2_title_generator.ipynb)  | - | 
 
 
-https://github.com/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day3_Generating_BERT_Embedding.ipynb
 
 Limitations on Use of Test Data
 --------------------------------
