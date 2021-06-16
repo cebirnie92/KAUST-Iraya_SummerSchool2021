@@ -20,7 +20,7 @@ To do so, in your terminal run the command:
 
 `conda activate mlg_summer_school_dayX`
 
-Where in both cases `X=1,2,3`.
+Where in both cases `X=1,2,3`. Note that for day3 you will need a **machine with a GPU**. Otherwise simply use Colab.
 
 
 Prerequisites
