@@ -1,0 +1,22 @@
+name: mlg_summer_school_day3
+channels:
+  - defaults
+dependencies:
+  - tensorflow
+  - pip
+  - ipython
+  - jupyter
+  - ipykernel
+  - tensorflow-gpu
+  - spacy
+  - cupy
+  - tensorflow-datasets==1.2.0
+  - python=3.7
+  - ipywidgets
+  - pip:
+    - headliner==1.0.2
+    - numpy==1.19.2
+    - pandas==1.2.4
+    - scikit-learn==0.24.2
+    - sklearn==0.0
+

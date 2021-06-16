@@ -1,4 +1,4 @@
-name: mlg_summer_school
+name: mlg_summer_school_day1
 channels:
   - defaults
 dependencies:
@@ -15,4 +15,3 @@ dependencies:
   - jupyter
   - pip:
     - wordcloud
-    - tensorflow

@@ -1,0 +1,15 @@
+name: mlg_summer_school_day2
+channels:
+  - defaults
+dependencies:
+  - python>=3.6.4
+  - pip
+  - numpy>=1.15.0
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - ipython
+  - jupyter
+  - pip:
+    - tensorflow

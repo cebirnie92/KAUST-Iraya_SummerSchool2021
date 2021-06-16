@@ -13,12 +13,14 @@ Getting started on your machine
 To create the environment which has all the necessary python packages pre-installed, in your terminal in this folder 
 directory run:
 
-`conda env create -f environment.yml`
+`conda env create -f environment_dayX.yml`
 
 This creates a conda environment named "mlg_summer_school". Before we begin you will need to activate this environment.
 To do so, in your terminal run the command:
 
-`conda activate mlg_summer_school`
+`conda activate mlg_summer_school_dayX`
+
+Where in both cases `X=1,2,3`.
 
 
 Prerequisites
