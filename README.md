@@ -32,9 +32,9 @@ Material
 
 | Day   | Tutorial (Github) | Tutorial (Colab) | Videos |
 |-----------|------------------|------------------|------------------|
-| 1: Introduction to NLP | [Link](notebooks/day1_word_embeddings.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day1_word_embeddings.ipynb)  | - | 
-| 2: Active Learning | [Link](notebooks/day2_active_learning.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day2_active_learning.ipynb)  | - | 
-| 3a: BERT | [Link](notebooks/day3_Part_1_Generating_BERT_Embedding.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day3_Part_1_Generating_BERT_Embedding.ipynb)  | - | 
+| 1: Introduction to NLP | [Link](notebooks/day1_word_embeddings.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day1_word_embeddings.ipynb)  | [Link](https://www.youtube.com/watch?v=KfeN1kgMylQ&t=2674s) | 
+| 2: Active Learning | [Link](notebooks/day2_active_learning.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day2_active_learning.ipynb)  | [Link](https://www.youtube.com/watch?v=9l5l7fw6hRM&t=1741s) | 
+| 3a: BERT | [Link](notebooks/day3_Part_1_Generating_BERT_Embedding.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day3_Part_1_Generating_BERT_Embedding.ipynb)  | [Link](https://www.youtube.com/watch?v=xazJgYTB3qA) | 
 | 3b: Title Generation | [Link](notebooks/day3_Part_2_title_generator.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cebirnie92/KAUST-Iraya_SummerSchool2021/blob/main/notebooks/day3_Part_2_title_generator.ipynb)  | - | 
 
 
